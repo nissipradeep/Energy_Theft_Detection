@@ -1,0 +1,3 @@
+Age,Energy Consumption (kWh),Location,Time of Use,Previous Bill Amount,Average Temperature (°C),Payment Method,Consumption Type,Detection Result,timestamp
+45,500,Rural,Night,10,35,Cash,Residential,Normal Usage,2026-01-25 00:29:21.372291
+45,900,Rural,Night,10,35,Cash,Residential,Normal Usage,2026-01-25 00:30:08.871032
